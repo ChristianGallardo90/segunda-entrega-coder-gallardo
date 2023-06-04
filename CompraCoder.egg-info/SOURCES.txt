@@ -1,0 +1,8 @@
+setup.py
+CompraCoder.egg-info/PKG-INFO
+CompraCoder.egg-info/SOURCES.txt
+CompraCoder.egg-info/dependency_links.txt
+CompraCoder.egg-info/top_level.txt
+paquete/__init__.py
+paquete/cliente.py
+paquete/login.py

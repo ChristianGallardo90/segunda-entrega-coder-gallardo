@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: CompraCoder
+Version: 1.0
+Summary: Realiza un login, muestra una lista de productos a comprar y los agrega a tu carrito
+Author: Christian Gallardo
+Author-email: chris.gallardo.guerra@gmail.com
